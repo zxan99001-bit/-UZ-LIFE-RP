@@ -1,0 +1,12 @@
+UZ LIFE RP — GODOTSIZ TELEFONDAN APK OLISH
+
+1) GitHub.com da bepul account oching.
+2) New repository yarating, masalan: uz-life-rp.
+3) Shu ZIP ichidagi UZ_LIFE_RP_V3 papkasining ichidagi fayllarni repositoryga yuklang.
+4) GitHub Actions avtomatik ishga tushadi. Yoki Actions -> Build UZ LIFE RP APK -> Run workflow bosing.
+5) Build tugagach Actions dagi run -> Artifacts -> UZ-LIFE-RP-Android ni yuklab oling.
+6) ZIP ichidan APKni chiqaring va Androidga o'rnating.
+
+Talab: telefonning o'zida Godot ilovasi kerak emas. Build GitHub serverida bajariladi.
+
+Eslatma: bu APK arm64 uchun sozlangan. Multiplayer hali server IP/HOST-JOIN prototipi asosida ishlaydi; internet serveri uchun alohida VPS kerak bo'ladi.
