@@ -16,3 +16,7 @@ forward={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":87)]}
 back={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":83)]}
 left={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":65)]}
 right={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":68)]}
+[rendering]
+
+textures/default_filters/use_nearest_mipmap_filter=false
+textures/vram_compression/import_etc2_astc=true
